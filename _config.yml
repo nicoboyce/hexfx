@@ -12,9 +12,9 @@ sass:
 # When modifying this file, take care to preserve the indentation. This is YAML ...
 
 # Main Headline, name required, subtitle optional
-name: Fuse Core
+name: Hex FX
 #subtitle:
-subtitle: Frontend Developer
+subtitle: Handcrafted analog audio effects encased in unique art.
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title:
@@ -23,18 +23,18 @@ title:
 # 'description' and 'keywords' simply set the corresponding meta tags,
 # 'crawl' is the 'Robots' tag http://www.robotstxt.org/meta.html
 robots:
-    description: One line of text describing the content of the page in less than 140 characters.
-    keywords: foo, bar, baz
+    description: Handcrafted analog audio effects encased in unique art.
+    keywords: guitar, bass, effects, audio, pedal
     crawl: index,follow
 
 # website address when deployed, also given as canonical link
-url: https://tsjensen.github.io/fuse-core/
+url: https://hexfx.uk
 
 # The 'baseurl' is prepended to all website-internal links.
 # 'baseurl' will often be '', but for a project page on gh-pages, it needs to be the project name.
 # If not empty, be careful to keep the leading slash, and don't add a slash at the end.
 #baseurl: ''
-baseurl: '/fuse-core'
+baseurl: ''
 
 # Enable Google Analytics. Leave empty (just "ga:" with subitems commented out) to disable.
 # In order to comply with EU cookie law, enable 'cookieconsent' to show a little popup asking users to acknowledge the GA cookies.
@@ -42,15 +42,15 @@ baseurl: '/fuse-core'
 # https://support.google.com/analytics/answer/2763052
 #ga:
 ga:
-    account: 'UA-120960520-1'
-    cookieconsent: true
-    anonymizeip: true
+#    account: 'UA-120960520-1'
+#    cookieconsent: true
+#    anonymizeip: true
 
 
 # A picture of you, square(!), at least 180x180 pixels, more is better. Recommended file size < 100 KB.
 # Leave empty for generic placeholder image.
 # You can use your GitHub image:
-avatar: "https://avatars0.githubusercontent.com/u/8897534"
+avatar: "https://avatars.githubusercontent.com/u/20581918"
 #avatar: "images/jonathan_doe.jpg"
 #avatar:
 
@@ -75,7 +75,7 @@ links:
       icon: fab fa-google-plus
   - twitter:
       name: Twitter
-      show: true
+      show: false
       href: https://twitter.com/YOUR_TWITTER_USERNAME
       icon: fab fa-twitter
   - weibo:
@@ -100,8 +100,8 @@ links:
       icon: fab fa-vk
   - instagram:
       name: Instagram
-      show: false
-      href: https://instagram.com/YOUR_INSTAGRAM_USERNAME
+      show: true
+      href: https://instagram.com/hexfx.uk
       icon: fab fa-instagram
   - flickr:
       name: Flickr
@@ -125,7 +125,7 @@ links:
       icon: fab fa-lastfm
   - github:
       name: GitHub
-      show: true
+      show: false
       href: https://github.com/tsjensen
       icon: fab fa-github
   - codepen:
@@ -155,17 +155,17 @@ links:
       icon: fab fa-tumblr
   - blog:
       name: Blog
-      show: true
+      show: false
       href: http://host.domain/your_blog
       icon: fas fa-book-open
   - email:
       name: Email
-      show: true
+      show: false
       href: mailto:jonathan.doe@host.domain
       icon: fas fa-envelope
   - publickey:
       name: PGP Key
-      show: true
+      show: false
       href: https://pastebin.com/raw/YOUR_PUBLIC_KEY
       icon: fas fa-key
 
@@ -173,7 +173,6 @@ links:
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
 extra_html: >
-    Any (multiline) text containing simple HTML,
-    such as links or ... lorem ipsum.
+    Make your pedalboard unique with a piece from Hex FX. Every pedal is individually designed, crafted and painted.
 
 #EOF
