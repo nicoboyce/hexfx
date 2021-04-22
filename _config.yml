@@ -80,7 +80,7 @@ links:
       icon: fab fa-twitter
   - weibo:
       name: 微博
-      show: true
+      show: false
       href: https://weibo.com/YOUR_WEIBO_USERNAME
       icon: fab fa-weibo
   - vine:
@@ -95,14 +95,14 @@ links:
       icon: fab fa-facebook
   - vkontakte:
       name: ВКонтакте
-      show: true
+      show: false
       href: https://vk.com/YOUR_VK_USERNAME
       icon: fab fa-vk
   - instagram:
       name: Instagram
       show: true
       href: https://instagram.com/hexfx.uk
-      icon: fab fa-instagram
+      icon: fa fa-instagram
   - flickr:
       name: Flickr
       show: false
