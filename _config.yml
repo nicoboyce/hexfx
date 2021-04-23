@@ -102,7 +102,7 @@ links:
       name: Instagram
       show: true
       href: https://instagram.com/hexfx.uk
-      icon: fa fa-instagram
+      icon: fab fa-instagram
   - flickr:
       name: Flickr
       show: false
