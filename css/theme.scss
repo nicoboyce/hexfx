@@ -56,7 +56,7 @@ div.fuse-core-content {
 /* --------- Title / Subtitle ------------------------------------------------------------------ */
 
 h1 {
-    letter-spacing: 0.1em;
+    font-family: 'daelabook';
     @media (max-width: 575.98px) {  /* used on bootstrap size 'xs' */
         letter-spacing: 0;
     }
