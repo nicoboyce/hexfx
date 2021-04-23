@@ -24,9 +24,9 @@ body {
 }
 
 div.glass-pane {
-    background-color: rgba(0, 0, 0, 0);
+    background-color: rgba(255, 105, 235, 0.5);
     width: 100%;
-    min-height: 42vh;  /* always cover at least the sky */
+    height: 100%;  /* always cover at least the sky */
 }
 
 div.fuse-core-content {
